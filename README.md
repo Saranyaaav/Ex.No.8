@@ -10,7 +10,7 @@ To reproduce a given image using AI text-to-image generation models by systemati
 
 ## Procedure
 
-### 🔹 Step 1: Analyze the Given Image
+### Step 1: Analyze the Given Image
 Deconstruct the reference image across key visual dimensions:
 * **Objects / Subjects:** Primary elements (e.g., architectural structures, landscapes, vehicles, human figures).
 * **Colors:** Palette distribution, primary/secondary hues, saturation, and contrast.
