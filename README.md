@@ -56,7 +56,7 @@ Measure structural and stylistic alignment against the reference. Refine prompts
 
 ### Reference Image 1
 
-<Image src="image_agent_tag_2717863967006366884" alt="Majestic snow capped mountain peak under clear blue sky" caption="Reference 1: Alpine Snow Peak" />
+<img width="2048" height="1365" alt="licensed-image" src="https://github.com/user-attachments/assets/56cf8da9-6790-4217-aef4-8b5dec3a7e47" />
 
 ### Visual Analysis & Observations
 * **Main Subject:** Massive central snow-capped mountain peak with sharp rock ridges.
@@ -97,7 +97,7 @@ Measure structural and stylistic alignment against the reference. Refine prompts
 
 ### Reference Image 2
 
-<Image src="image_agent_tag_2717863967006367253" alt="Futuristic cyberpunk city street with pink neon light trails" caption="Reference 2: Cyberpunk City Street" />
+<img width="2048" height="1024" alt="licensed-image" src="https://github.com/user-attachments/assets/956cdf90-0dd9-42d7-b824-790a0ec2892c" />
 
 ### Visual Analysis & Observations
 * **Main Subject:** A curving elevated light highway flowing through a dense futuristic skyscraper canyon.
