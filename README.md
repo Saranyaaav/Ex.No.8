@@ -98,7 +98,7 @@ Measure structural and stylistic alignment against the reference. Refine prompts
 
 ### Reference Image 2
 
-<Image src="image_agent_tag_2717863967006367253" alt="Futuristic cyberpunk city street with pink neon light trails" caption="Reference 2: Cyberpunk City Street" />
+<Image src="image_agent_tag_2717863967006367253" alt="Futuristic cyberpunk city street with pink neon light trails" caption="Reference 2: Cyberpunk City Street"/>
 
 ### Visual Analysis & Observations
 * **Main Subject:** A curving elevated light highway flowing through a dense futuristic skyscraper canyon.
