@@ -1,7 +1,6 @@
 # Experiment 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date: 07.09.2026
-# Register Number: 212223040188
+# Register Number : 212223040188
 
 ## Aim
 To reproduce a given image using AI text-to-image generation models by systematically analyzing its visual attributes and refining descriptive prompts. The objective is to understand how incremental prompt engineering impacts the fidelity, composition, and artistic fidelity of generated outputs.
@@ -43,7 +42,7 @@ Measure structural and stylistic alignment against the reference. Refine prompts
 
 ---
 
-## Tools / Models Used
+## ⚙️ Tools / Models Used
 
 | Tool | Description | Access |
 | :--- | :--- | :--- |
@@ -85,10 +84,10 @@ Measure structural and stylistic alignment against the reference. Refine prompts
 
 | Visual Element | Original Reference Image | AI-Generated Image | Assessment & Remarks |
 | :--- | :--- | :--- | :--- |
-| **Color Palette** | Pure whites, deep slate, crisp blue | Matched cold blue and white tones | ✅ Highly Accurate |
-| **Lighting** | Direct high-altitude daylight | Slightly warmer sunlight highlights | ⚙️ Minor tweak: Increase blue shadow intensity |
-| **Ridge Detail** | Sharp, defined rock faces | Dense snow coverage on rock edges | ✅ Very Close Match |
-| **Composition** | Centered triangular peak framing | Perfectly aligned center framing | ✅ Excellent |
+| **Color Palette** | Pure whites, deep slate, crisp blue | Matched cold blue and white tones | Highly Accurate |
+| **Lighting** | Direct high-altitude daylight | Slightly warmer sunlight highlights | Minor tweak: Increase blue shadow intensity |
+| **Ridge Detail** | Sharp, defined rock faces | Dense snow coverage on rock edges | Very Close Match |
+| **Composition** | Centered triangular peak framing | Perfectly aligned center framing | Excellent |
 
 **Result Summary:** The final prompt successfully captured the crisp atmosphere and structural geometry of the alpine peak with minimal variance.
 
@@ -98,7 +97,7 @@ Measure structural and stylistic alignment against the reference. Refine prompts
 
 ### Reference Image 2
 
-<Image src="image_agent_tag_2717863967006367253" alt="Futuristic cyberpunk city street with pink neon light trails" caption="Reference 2: Cyberpunk City Street"/>
+<Image src="image_agent_tag_2717863967006367253" alt="Futuristic cyberpunk city street with pink neon light trails" caption="Reference 2: Cyberpunk City Street" />
 
 ### Visual Analysis & Observations
 * **Main Subject:** A curving elevated light highway flowing through a dense futuristic skyscraper canyon.
@@ -126,10 +125,10 @@ Measure structural and stylistic alignment against the reference. Refine prompts
 
 | Visual Element | Original Reference Image | AI-Generated Image | Assessment & Remarks |
 | :--- | :--- | :--- | :--- |
-| **Neon Light Trails**| Smooth, curving pink light streak | Accurately rendered curved light trail | ✅ Perfect Match |
-| **Reflections** | High contrast wet asphalt reflections | Wet surface gloss rendered accurately | ✅ Highly Accurate |
-| **Color Palette** | Dominant magenta/cyan contrast | High fidelity neon contrast maintained | ✅ Excellent |
-| **Urban Density** | Extreme tall skyscraper framing | High building density matched | ✅ Well-aligned |
+| **Neon Light Trails**| Smooth, curving pink light streak | Accurately rendered curved light trail | Perfect Match |
+| **Reflections** | High contrast wet asphalt reflections | Wet surface gloss rendered accurately | Highly Accurate |
+| **Color Palette** | Dominant magenta/cyan contrast | High fidelity neon contrast maintained | Excellent |
+| **Urban Density** | Extreme tall skyscraper framing | High building density matched | Well-aligned |
 
 **Result Summary:** The step-by-step refinement accurately captured the complex neon reflections and dynamic motion blur of the elevated light path.
 
