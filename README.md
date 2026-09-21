@@ -42,7 +42,7 @@ Measure structural and stylistic alignment against the reference. Refine prompts
 
 ---
 
-## ⚙️ Tools / Models Used
+## Tools / Models Used
 
 | Tool | Description | Access |
 | :--- | :--- | :--- |
